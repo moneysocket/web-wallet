@@ -1,0 +1,30 @@
+{
+  "name": "moneysocket-web-wallet",
+  "version": "0.0.0",
+  "description": "Web wallet which provides a frontend for Moneysocket connections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "clipboard-copy": "^4.0.1",
+    "kjua": "^0.9.0",
+    "moneysocket": "git+https://github.com/moneysocket/js-moneysocket.git"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "browserify": "^17.0.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulplog": "^1.0.0",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
