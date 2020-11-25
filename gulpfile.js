@@ -45,7 +45,7 @@ gulp.task('imageMin', function imageMin(cb) {
 
 ///////////////////////////////////////////////////////////////////////////////
 
-gulp.task('walletFull', function () {
+gulp.task('full', function () {
     var b = browserify({
       entries: './src/js/wallet.js',
       debug: true
