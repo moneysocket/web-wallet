@@ -7,6 +7,8 @@ A rudimentary browser-based wallet app which connects as a Moneysocket consumer 
 
 A better wallet is needed to be end-user ready, this was built in conjuction with the rest of the infrastructure to test, so it is a bit underdeveloped when it comes to user-friendliness.
 
+A build of the wallet is hosted [here](https://socket.money/wallet).
+
 [Donate](https://socket.money/#donate)
 
 Disclaimer!
