@@ -1,23 +1,7 @@
 Moneysocket Web Wallet
 -----
 
-A rudimentary browser-based wallet app which connects as a Moneysocket consumer to a provider with a balance. Additionally, it provides a Moneysocket provider connection for an app to use.
-
-![Wallet](doc/img/wallet.png)
-
-A better wallet is needed to be end-user ready, this was built in conjuction with the rest of the infrastructure to test, so it is a bit underdeveloped when it comes to user-friendliness.
-
-A build of the wallet is hosted [here](https://socket.money/wallet).
-
-[Donate](https://socket.money/#donate)
-
-Disclaimer!
------
-
-Moneysocket is still new, under development and is Reckless with your money. Use this stuff at your own risk.
-
-The Version number of this package and on the protocol is set to `0.0.0` for the time being since we anticipate that the protocol specifics will change in breaking ways prior to an 'official' release.
-
+*THIS WALLET IS DEPRECATED* - use [Costanza](https://github.com/moneysocket/costanza) instead
 
 Dependencies
 ------------------------------------------------------------------------
